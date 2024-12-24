@@ -1,0 +1,2 @@
+Para rodar: 
+streamlit run .\01_visualizando_tabela.py 
